@@ -11,7 +11,7 @@ I'm currently working on projects like **Mental Health Classification** and an *
 - Agile Project Management  
 
 ## 📂 Work Samples  
- 
+ https://github.com/mammadliparvin/Image-Gradient-Filters.git
   
 ## 🎓 Education & Certifications  
 - Data science bootcamp certificate at Datalent 
